@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartrender",
+        "uuid": 1783629,
+        "checksum": "ix845r"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
